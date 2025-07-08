@@ -38,7 +38,7 @@ In today’s fast-paced world, people struggle to make informed food choices due
 
 | Home Screen | Food Details |
 |-------------|--------------|
-| ![Home](./project_name/assets/screenshots/AndroidLarge14.png) | ![Food Details](screenshots/AndroidLarge13.png) |
+| ![Home](./assets/screenshots/AndroidLarge14.png) | ![Food Details](screenshots/AndroidLarge13.png) |
 
 | Signup | Login |
 |--------|-------|
